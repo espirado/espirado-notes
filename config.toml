@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://example.org/"
+baseurl = "https://espirado.github.io/espirado-notes/"
 languageCode = "en-us"
 title = "espirado-notes"
 newContentEditor = "vim"
