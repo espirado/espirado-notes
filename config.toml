@@ -3,7 +3,12 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "espirado-notes"
+newContentEditor = "vim"
 theme = "hugo-theme-bootstrap4-blog"
+enableRobotsTXT = true
+enableGitInfo = true
+publishDir = "docs"
+
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
 # number of words to use for summary on home/category/tag pages (Default: 70)
